@@ -8,3 +8,7 @@ Part 3 - Classification: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes
 Part 4 - Clustering: K-Means, Hierarchical Clustering
 Part 5 - Association Rule Learning: Apriori, Eclat
 Part 6 - Reinforcement Learning: Upper Confidence Bound, Thompson Sampling
+
+
+
+model_selection
